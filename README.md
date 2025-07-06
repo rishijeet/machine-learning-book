@@ -1,8 +1,8 @@
 # Mastering Machine Learning — From Scratch to Advanced
 
-🖋️ *Authored with ❤️ by Rishijeet Mishra*
+*Authored by Rishijeet Mishra*
 
-## 📚 Table of Contents
+## Table of Contents
 - [Chapter 1: Introduction to Machine Learning](./chapter-01-introduction-to-machine-learning.md)
 - [Chapter 2: Types of Machine Learning](./chapter-02-types-of-machine-learning.md)
 - [Chapter 3: Data Preprocessing](./chapter-03-data-preprocessing.md)
@@ -16,10 +16,10 @@
 - [Chapter 11: Support Vector Machines (SVM)](./chapter-11-svm.md)
 - [Chapter 12: Clustering (K-Means, DBSCAN, Hierarchical)](./chapter-12-clustering.md)
 - [Chapter 13: Dimensionality Reduction (PCA, t-SNE)](./chapter-13-dimensionality-reduction.md)
-- [Chapter 14: Model Evaluation Metrics](./chapter-14-model-evaluation.md)
+- [Chapter 14: Model Evaluation](./chapter-14-model-evaluation.md)
 - [Chapter 15: Hyperparameter Tuning](./chapter-15-hyperparameter-tuning.md)
-- [Chapter 16: Model Deployment Basics](./chapter-16-model-deployment.md)
-- [Chapter 17: Intro to Deep Learning](./chapter-17-deep-learning-intro.md)
-- [Chapter 18: TensorFlow & PyTorch Basics](./chapter-18-tensorflow-pytorch.md)
-- [Chapter 19: Advanced Topics in ML](./chapter-19-advanced-topics.md)
+- [Chapter 16: Model Deployment Basics](./chapter-16-model-deployment-basics.md)
+- [Chapter 17: Intro to Deep Learning](./chapter-17-intro-to-deep-learning.md)
+- [Chapter 18: TensorFlow & PyTorch Basics](./chapter-18-tensorflow-pytorch-basics.md)
+- [Chapter 19: Advanced Topics in ML](./chapter-19-advanced-topics-in-ml.md)
 - [Chapter 20: Where to Go from Here?](./chapter-20-where-to-go-from-here.md)
