@@ -1,6 +1,6 @@
 # Mastering Machine Learning — From Scratch to Advanced
 
-*Authored by Rishijeet Mishra*
+*Authored with ❤️ by Rishijeet Mishra*
 
 ## Table of Contents
 - [Chapter 1: Introduction to Machine Learning](./chapter-01-introduction-to-machine-learning.md)
