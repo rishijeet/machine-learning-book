@@ -1,4 +1,4 @@
-# Chapter 14: Model Evaluation
+# Chapter 14: Model Evaluation Metrics
 
 _This chapter is part of the book **Mastering Machine Learning — From Scratch to Advanced**_
 
