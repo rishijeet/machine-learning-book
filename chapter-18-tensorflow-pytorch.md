@@ -115,7 +115,8 @@ with torch.no_grad(): # Deactivate autograd for evaluation
 
 ## Visual Explanation
 
-!A diagram showing the logos of TensorFlow and PyTorch side-by-side.
+<img src="https://github.com/user-attachments/assets/c561c1a4-1db1-4e81-9d89-bfa34ee7afe4" width="600">
+
 *TensorFlow (with Keras) and PyTorch are the two dominant frameworks for modern deep learning.*
 
 ## Summary
