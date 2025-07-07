@@ -61,7 +61,8 @@ Like the first chapter, this one is focused on core concepts. We will begin writ
 
 ## Visual Explanation
 
-!A diagram showing the three types of ML: Supervised (labeled data), Unsupervised (unlabeled data), and Reinforcement (agent-environment interaction)
+![image](https://github.com/user-attachments/assets/361cde32-46f1-4cc5-b04e-620f2c19898c)
+
 
 ## Summary
 
