@@ -94,7 +94,8 @@ print(pd.DataFrame(X, columns=['France', 'Germany', 'Spain', 'Age_Scaled', 'Sala
 
 ## Visual Explanation
 
-!A flowchart showing the data preprocessing pipeline: Raw Data -> Handle Missing Values -> Encode Categories -> Scale Features -> Clean Data.
+<img src="https://github.com/user-attachments/assets/c78dbb3d-2e3c-4c23-8841-75dc42241058" width="600">
+
 *The journey of data from its raw, messy state to a clean, model-ready format.*
 
 ## Summary
