@@ -1,8 +1,6 @@
 # Mastering Machine Learning — From Scratch to Advanced
 
-![image](https://github.com/user-attachments/assets/7a98b476-8f8d-48fa-a625-c8846f5b01c5 =300x300)
-
-
+<img src="https://github.com/user-attachments/assets/7a98b476-8f8d-48fa-a625-c8846f5b01c5" width="300">
 
 *Authored with ❤️ by Rishijeet Mishra*
 
