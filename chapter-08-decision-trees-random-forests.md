@@ -90,7 +90,8 @@ plt.show()
 
 ## Visual Explanation
 
-!A diagram showing a Random Forest as a collection of multiple, diverse Decision Trees, with their individual predictions being combined through a majority vote to produce a final, more robust prediction.
+![8497b926-592b-40c3-a0a9-e74484c7d95b](https://github.com/user-attachments/assets/2bd3f27c-d2b5-4607-acbb-6974a0effdbb)
+
 *A Random Forest combines the outputs of many individual trees to make a more accurate and stable prediction.*
 
 ## Summary
