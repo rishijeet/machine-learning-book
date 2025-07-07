@@ -60,7 +60,8 @@ print(df[['user_id', 'days_as_customer', 'avg_purchase_value', 'signup_month']])
 
 ## Visual Explanation
 
-!A diagram showing raw features like 'birth_date' and 'last_login' being transformed into engineered features like 'age' and 'days_since_last_login'.
+<img src="https://github.com/user-attachments/assets/699167b0-8ecf-434f-8d73-a0a1df1c3190" width="600">
+
 *Feature engineering is about transforming raw data into meaningful signals for your model.*
 
 ## Summary
