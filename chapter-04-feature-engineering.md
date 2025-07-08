@@ -64,3 +64,7 @@ print(df[['user_id', 'days_as_customer', 'avg_purchase_value', 'signup_month']])
 - Its goal is to create features that make the underlying patterns in the data more obvious to the machine learning algorithm.
 - Simple transformations, like combining columns or extracting parts of a date, can significantly boost model performance.
 - Always think about what information would be most useful for making a prediction and see if you can create it from the data you already have.
+
+---
+
+[< Previous: Chapter 3: Data Preprocessing](./chapter-03-data-preprocessing.md) | [Next: Chapter 5: Train Test Split Cross Validation >](./chapter-05-train-test-split-cross-validation.md)

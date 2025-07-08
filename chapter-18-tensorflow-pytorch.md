@@ -119,3 +119,7 @@ with torch.no_grad(): # Deactivate autograd for evaluation
 - **Keras** provides a user-friendly, high-level API for TensorFlow, making it easy to quickly build and iterate on standard models.
 - **PyTorch** offers a more "Pythonic" and explicit approach, giving you fine-grained control over the model and training loop, which is why it's a favorite in research.
 - The core concepts (layers, activation functions, optimizers, loss functions) are the same in both. Learning one makes it much easier to pick up the other.
+
+---
+
+[< Previous: Chapter 17: Deep Learning Intro](./chapter-17-deep-learning-intro.md) | [Next: Chapter 19: Advanced Topics >](./chapter-19-advanced-topics.md)

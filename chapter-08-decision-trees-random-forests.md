@@ -94,3 +94,7 @@ plt.show()
 - Their main weakness is a tendency to **overfit** the training data.
 - **Random Forests** are an ensemble of many decision trees. They overcome overfitting by using randomness and the "wisdom of the crowd" (majority voting).
 - Random Forests are one of the most powerful and widely used "off-the-shelf" classification and regression algorithms due to their high accuracy and robustness.
+
+---
+
+[< Previous: Chapter 7: Logistic Regression](./chapter-07-logistic-regression.md) | [Next: Chapter 9: Naive Bayes >](./chapter-09-naive-bayes.md)

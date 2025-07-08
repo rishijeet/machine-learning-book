@@ -87,3 +87,7 @@ plt.show()
 - **PCA** is a linear method best used for data compression and removing redundant features. It creates new features (principal components) that are ordered by the amount of variance they explain.
 - **t-SNE** is a non-linear method best used for data visualization. It excels at revealing the underlying cluster structure in high-dimensional data.
 - Always scale your data before applying PCA.
+
+---
+
+[< Previous: Chapter 12: Clustering](./chapter-12-clustering.md) | [Next: Chapter 14: Model Evaluation >](./chapter-14-model-evaluation.md)

@@ -84,3 +84,7 @@ print(f"\nBest K value found: {best_k} with an error rate of {min(error_rate):.4
 - **Feature scaling is absolutely essential** for KNN to work correctly.
 - The choice of **K is a critical hyperparameter** that needs to be tuned.
 - KNN can be computationally slow and memory-intensive for large datasets because it needs to store all training data and calculate distances for every new prediction.
+
+---
+
+[< Previous: Chapter 9: Naive Bayes](./chapter-09-naive-bayes.md) | [Next: Chapter 11: SVM >](./chapter-11-svm.md)

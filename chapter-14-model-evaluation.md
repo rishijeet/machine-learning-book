@@ -96,3 +96,7 @@ print(f"Root Mean Squared Error (RMSE): {rmse:.2f}")
 - **Accuracy is not always enough**, especially for imbalanced datasets where one class is much more frequent than another.
 - For **classification**, use **Precision** when False Positives are costly, **Recall** when False Negatives are costly, and the **F1-Score** for a balanced view.
 - For **regression**, **MAE** gives you the average error in the original units, while **MSE** and **RMSE** penalize large errors more severely. Choosing the right metric depends entirely on your project's business goal.
+
+---
+
+[< Previous: Chapter 13: Dimensionality Reduction](./chapter-13-dimensionality-reduction.md) | [Next: Chapter 15: Hyperparameter Tuning >](./chapter-15-hyperparameter-tuning.md)

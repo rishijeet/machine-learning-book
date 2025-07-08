@@ -87,3 +87,7 @@ print(f"Standard Deviation of CV Scores: {np.std(cv_scores):.4f}")
 - **Overfitting** occurs when a model memorizes the training data instead of learning the general patterns.
 - A **train/test split** is the minimum requirement for proper model evaluation.
 - **K-Fold Cross-Validation** is a more robust technique that provides a more reliable estimate of how your model will perform on unseen data by training and testing on multiple different splits of the data.
+
+---
+
+[< Previous: Chapter 4: Feature Engineering](./chapter-04-feature-engineering.md) | [Next: Chapter 6: Linear Regression >](./chapter-06-linear-regression.md)

@@ -82,3 +82,7 @@ plt.show()
 - It works by finding the best-fitting straight line (or hyperplane in higher dimensions) that describes the relationship between features and the target.
 - The model "learns" the optimal **intercept (bias)** and **coefficients (weights)** for the features during training.
 - It's a simple, interpretable algorithm that serves as a great foundation for understanding more complex models.
+
+---
+
+[< Previous: Chapter 5: Train Test Split Cross Validation](./chapter-05-train-test-split-cross-validation.md) | [Next: Chapter 7: Logistic Regression >](./chapter-07-logistic-regression.md)

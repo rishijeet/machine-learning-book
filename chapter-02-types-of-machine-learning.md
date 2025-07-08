@@ -65,3 +65,7 @@ Like the first chapter, this one is focused on core concepts. We will begin writ
 - **Supervised Learning:** Uses labeled data to make predictions. Think "learning with an answer key." It's used for *classification* (predicting categories) and *regression* (predicting numbers).
 - **Unsupervised Learning:** Uses unlabeled data to find hidden patterns. Think "discovering structure on your own." It's used for *clustering* (grouping) and *dimensionality reduction* (simplifying).
 - **Reinforcement Learning:** An agent learns by taking actions and receiving rewards or penalties. Think "learning through trial and error."
+
+---
+
+[< Previous: Chapter 1: Introduction To Machine Learning](./chapter-01-introduction-to-machine-learning.md) | [Next: Chapter 3: Data Preprocessing >](./chapter-03-data-preprocessing.md)

@@ -85,3 +85,7 @@ print(y_pred_proba[:5].round(2))
 - It uses the **Sigmoid function** to map any real-valued number into a probability between 0 and 1.
 - The line that separates the classes is called the **decision boundary**, and for logistic regression, it is linear.
 - It's a simple, fast, and highly interpretable algorithm.
+
+---
+
+[< Previous: Chapter 6: Linear Regression](./chapter-06-linear-regression.md) | [Next: Chapter 8: Decision Trees Random Forests >](./chapter-08-decision-trees-random-forests.md)

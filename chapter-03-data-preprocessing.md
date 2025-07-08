@@ -100,3 +100,7 @@ print(pd.DataFrame(X, columns=['France', 'Germany', 'Spain', 'Age_Scaled', 'Sala
 - **Feature Scaling:** Standardize the range of your numerical features so that no single feature can dominate the learning process. This is crucial for algorithms that are sensitive to distance, like SVM and KNN.
 
 With our data now clean and prepared, we can move on to the next creative step: Feature Engineering.
+
+---
+
+[< Previous: Chapter 2: Types Of Machine Learning](./chapter-02-types-of-machine-learning.md) | [Next: Chapter 4: Feature Engineering >](./chapter-04-feature-engineering.md)

@@ -86,3 +86,7 @@ print(f"Best score from Random Search: {random_search.best_score_:.4f}")
 - **Grid Search** is a brute-force method that tries all possible combinations. It's thorough but can be computationally expensive.
 - **Random Search** is often more efficient, as it samples random combinations, which can quickly find good-performing models.
 - Tuning is an essential step to move a model from a "good enough" baseline to a production-ready, high-performance state.
+
+---
+
+[< Previous: Chapter 14: Model Evaluation](./chapter-14-model-evaluation.md) | [Next: Chapter 16: Model Deployment >](./chapter-16-model-deployment.md)

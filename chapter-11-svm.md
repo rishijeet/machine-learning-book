@@ -90,3 +90,7 @@ plt.show()
 - The **kernel trick** allows SVMs to solve complex, non-linear problems by projecting data into higher dimensions. The **RBF kernel** is a very powerful and common choice.
 - **Feature scaling is essential** for SVMs to perform correctly.
 - SVMs are effective in high-dimensional spaces and are memory-efficient because they only use a subset of training points (the support vectors) in the decision function.
+
+---
+
+[< Previous: Chapter 10: KNN](./chapter-10-knn.md) | [Next: Chapter 12: Clustering >](./chapter-12-clustering.md)

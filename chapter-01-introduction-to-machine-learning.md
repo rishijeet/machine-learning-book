@@ -48,4 +48,6 @@ Since this is an introductory chapter, a code example isn't strictly necessary. 
 
 In the next chapter, we'll dive into the different *types* of machine learning and see how they power these amazing applications.
 
-[< Previous: Main Book](./README.md) | [Next: Chapter 2: Types of Machine Learning >](./chapter-02-types-of-machine-learning.md)
+---
+
+[< Previous: Main Book](./README.md) | [Next: Chapter 2: Types Of Machine Learning >](./chapter-02-types-of-machine-learning.md)

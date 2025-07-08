@@ -68,3 +68,7 @@ The code block above demonstrates XGBoost, a powerful gradient boosting library.
 - **Ensemble methods** like Gradient Boosting are industry workhorses for tabular data.
 - **XAI** and **Ethics** are critical for building trustworthy and responsible AI systems.
 - **Transfer Learning**, **MLOps**, and advanced architectures like **Transformers** are at the cutting edge of what's possible with machine learning today.
+
+---
+
+[< Previous: Chapter 18: Tensorflow Pytorch](./chapter-18-tensorflow-pytorch.md) | [Next: Chapter 20: Where To Go From Here >](./chapter-20-where-to-go-from-here.md)

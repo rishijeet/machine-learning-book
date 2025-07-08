@@ -86,3 +86,7 @@ for msg, pred in zip(new_messages, predictions):
 - It's based on **Bayes' Theorem** with the "naive" assumption that all features are independent.
 - It excels at **text classification** problems like spam detection and sentiment analysis.
 - Because of its simplicity, it works well even with very high-dimensional data (like a vocabulary of thousands of words) and can perform well with relatively small amounts of training data.
+
+---
+
+[< Previous: Chapter 8: Decision Trees Random Forests](./chapter-08-decision-trees-random-forests.md) | [Next: Chapter 10: KNN >](./chapter-10-knn.md)

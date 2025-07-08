@@ -99,3 +99,7 @@ plt.show()
 - **K-Means** is a fast and simple algorithm but requires you to specify the number of clusters (K) and assumes clusters are spherical.
 - **Hierarchical Clustering** builds a tree of clusters (a dendrogram) and doesn't require a pre-specified K.
 - **DBSCAN** is a density-based method that can find arbitrarily shaped clusters and identify noise, without needing K to be specified.
+
+---
+
+[< Previous: Chapter 11: SVM](./chapter-11-svm.md) | [Next: Chapter 13: Dimensionality Reduction >](./chapter-13-dimensionality-reduction.md)

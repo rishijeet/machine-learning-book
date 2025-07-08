@@ -84,3 +84,7 @@ print(f"\nModel Accuracy: {accuracy_score(y_test, y_pred):.4f}")
 - Neurons are organized into an **input layer**, one or more **hidden layers**, and an **output layer**.
 - The network "learns" by adjusting the **weights** of the connections between neurons through a process called **backpropagation**.
 - Deep learning excels at tasks involving unstructured data like images, sound, and text.
+
+---
+
+[< Previous: Chapter 16: Model Deployment](./chapter-16-model-deployment.md) | [Next: Chapter 18: Tensorflow Pytorch >](./chapter-18-tensorflow-pytorch.md)
