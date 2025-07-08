@@ -117,7 +117,8 @@ You should get a response like: `{"prediction":1}`
 
 ## Visual Explanation
 
-!A flowchart showing the deployment process: User sends JSON data via an HTTP POST request to the Flask API. The API receives the request, loads the pickled model from disk, uses the model to make a prediction, and returns the prediction as a JSON response.
+<img src="https://github.com/user-attachments/assets/1f978848-6f9a-4ee8-8f31-1220a8584410" width="300"> 
+
 *A simple deployment pipeline for serving a machine learning model.*
 
 ## Summary
