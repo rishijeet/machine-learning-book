@@ -85,7 +85,8 @@ plt.show()
 
 ## Visual Explanation
 
-!A diagram showing the maximum margin hyperplane, the support vectors on the edge of the margin, and the two classes of data being separated.
+![image](https://github.com/user-attachments/assets/11549dc6-d2e9-473b-a0e6-96e7025653b2)
+
 *An SVM's goal is to find the hyperplane that creates the largest possible margin between the two classes. The points that lie on the margin are the support vectors.*
 
 ## Summary
