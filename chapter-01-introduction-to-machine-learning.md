@@ -2,7 +2,7 @@
 
 _This chapter is part of the book **Mastering Machine Learning — From Scratch to Advanced**_
 
-## 📘 Overview
+## Overview
 
 Welcome to the very beginning of your machine learning journey! If you've ever wondered how Netflix recommends movies or how your email filters out spam, you've come to the right place. This chapter will introduce you to the core ideas of Machine Learning (ML) in simple, everyday language.
 
@@ -35,16 +35,11 @@ You interact with machine learning every day, probably without realizing it!
 - **Medical Diagnosis:** Helping doctors identify diseases from medical scans.
 - **Self-Driving Cars:** Using sensors to understand the environment and make driving decisions.
 
-## 🐍 Python Code Example
+## Python Code Example
 
 Since this is an introductory chapter, a code example isn't strictly necessary. The goal here is to build concepts. We will dive deep into code starting from Chapter 3.
 
-## 📊 Visual Explanation
-
-![A diagram showing the difference between traditional programming (Rules + Data -> Answers) and machine learning (Data + Answers -> Rules)](./images/ml_vs_traditional.png)
-*A simple way to visualize the paradigm shift in machine learning.*
-
-## 📝 Summary
+## Summary
 
 - **Machine Learning (ML)** is about teaching computers to learn patterns from data without explicit rules.
 - It's different from **traditional programming**, where we provide the rules. In ML, the machine *finds* the rules.
@@ -52,3 +47,5 @@ Since this is an introductory chapter, a code example isn't strictly necessary. 
 - The growth of data and computing power has made modern ML possible.
 
 In the next chapter, we'll dive into the different *types* of machine learning and see how they power these amazing applications.
+
+[< Previous: Main Book](./README.md) | [Next: Chapter 2: Types of Machine Learning >](./chapter-02-types-of-machine-learning.md)

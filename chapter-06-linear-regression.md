@@ -76,11 +76,6 @@ plt.grid(True)
 plt.show()
 ```
 
-## Visual Explanation
-
-!A scatter plot showing house size vs. price with a regression line drawn through it.
-*The goal of linear regression is to find the line that best fits the relationship between the input features and the target variable.*
-
 ## Summary
 
 - **Linear Regression** is a supervised learning algorithm used to predict a continuous numerical output.

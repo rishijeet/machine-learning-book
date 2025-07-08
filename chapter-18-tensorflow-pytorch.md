@@ -113,10 +113,6 @@ with torch.no_grad(): # Deactivate autograd for evaluation
     print(f"PyTorch Model Accuracy: {accuracy.item():.4f}")
 ```
 
-## Visual Explanation
-
-*TensorFlow (with Keras) and PyTorch are the two dominant frameworks for modern deep learning.*
-
 ## Summary
 
 - **TensorFlow** and **PyTorch** are essential for serious deep learning due to their flexibility and GPU support.

@@ -77,11 +77,6 @@ y_pred = model.predict(X_test_scaled)
 print(f"\nModel Accuracy: {accuracy_score(y_test, y_pred):.4f}")
 ```
 
-## Visual Explanation
-
-!A diagram of a simple neural network with an input layer, two hidden layers, and an output layer. Arrows show the flow of information from left to right.
-*A deep neural network consists of multiple hidden layers, allowing it to learn hierarchical representations of the data.*
-
 ## Summary
 
 - **Deep Learning** uses Artificial Neural Networks (ANNs) with many layers (hence "deep") to learn complex patterns.

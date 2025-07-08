@@ -78,14 +78,6 @@ print("First 5 probabilities (for Class 0 and Class 1):")
 print(y_pred_proba[:5].round(2))
 ```
 
-## Visual Explanation
-
-A key concept in classification is the **decision boundary**. It's the line or surface that separates the different classes. For Logistic Regression, this boundary is linear.
-
-<img src="https://github.com/user-attachments/assets/6c520661-79a2-4533-841e-53ba22d975ca" width="600">
-
-*Logistic Regression learns a linear decision boundary to separate the classes.*
-
 ## Summary
 
 - **Logistic Regression** is a go-to algorithm for **binary classification**.

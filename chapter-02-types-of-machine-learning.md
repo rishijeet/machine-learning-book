@@ -59,10 +59,6 @@ Reinforcement learning is powerful for:
 
 Like the first chapter, this one is focused on core concepts. We will begin writing code to implement these ideas in the upcoming chapters.
 
-## Visual Explanation
-
-![image](https://github.com/user-attachments/assets/361cde32-46f1-4cc5-b04e-620f2c19898c)
-
 
 ## Summary
 

@@ -81,11 +81,6 @@ print(f"Average CV Score: {np.mean(cv_scores):.4f}")
 print(f"Standard Deviation of CV Scores: {np.std(cv_scores):.4f}")
 ```
 
-## Visual Explanation
-
-!A diagram showing K-Fold Cross-Validation. The dataset is split into 5 folds. In each iteration, one fold is used for testing and the other four for training.
-*K-Fold Cross-Validation provides a more robust evaluation by using every data point for both training and validation across different iterations.*
-
 ## Summary
 
 - **Never test your model on the same data it was trained on.** This leads to an overly optimistic and misleading performance score.

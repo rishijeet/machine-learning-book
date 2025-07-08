@@ -91,11 +91,6 @@ print(f"Mean Squared Error (MSE): {mse:.2f}")
 print(f"Root Mean Squared Error (RMSE): {rmse:.2f}")
 ```
 
-## Visual Explanation
-
-!A visual representation of a Confusion Matrix, clearly labeling the True Positive, True Negative, False Positive, and False Negative quadrants.
-*The Confusion Matrix is the foundation for most classification metrics.*
-
 ## Summary
 
 - **Accuracy is not always enough**, especially for imbalanced datasets where one class is much more frequent than another.

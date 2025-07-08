@@ -62,11 +62,6 @@ This is arguably the most important topic. A model is only as good as the data i
 
 The code block above demonstrates XGBoost, a powerful gradient boosting library.
 
-## Visual Explanation
-
-!A collage of logos representing advanced topics: XGBoost, SHAP, PyTorch (for Transfer Learning), Docker (for MLOops), and Transformers.
-*The world of machine learning is vast, with many exciting specializations to explore.*
-
 ## Summary
 
 - This chapter provides a glimpse into the major specializations that build upon the fundamentals you've learned.

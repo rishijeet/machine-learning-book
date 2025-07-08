@@ -115,12 +115,6 @@ curl -X POST http://127.0.0.1:5000/predict \
 
 You should get a response like: `{"prediction":1}`
 
-## Visual Explanation
-
-<img src="https://github.com/user-attachments/assets/1f978848-6f9a-4ee8-8f31-1220a8584410" width="300"> 
-
-*A simple deployment pipeline for serving a machine learning model.*
-
 ## Summary
 
 - **Model Deployment** is the process of making your trained model available to users and other applications.

@@ -79,11 +79,6 @@ print("\nBest parameters found by Random Search:", random_search.best_params_)
 print(f"Best score from Random Search: {random_search.best_score_:.4f}")
 ```
 
-## Visual Explanation
-
-!A diagram showing a 2D grid for two hyperparameters (e.g., n_estimators and max_depth). Grid Search checks every point on the grid, while Random Search checks a random subset of points.
-*Grid Search is exhaustive but slow. Random Search is a more efficient way to explore the hyperparameter space.*
-
 ## Summary
 
 - **Hyperparameters** are the settings of a model that we define before training. **Parameters** are what the model learns during training.

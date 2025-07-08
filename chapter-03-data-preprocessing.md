@@ -92,12 +92,6 @@ print("\n----------- Final Preprocessed Data (Ready for a Model!) -----------")
 print(pd.DataFrame(X, columns=['France', 'Germany', 'Spain', 'Age_Scaled', 'Salary_Scaled']))
 ```
 
-## Visual Explanation
-
-<img src="https://github.com/user-attachments/assets/c78dbb3d-2e3c-4c23-8841-75dc42241058" width="600">
-
-*The journey of data from its raw, messy state to a clean, model-ready format.*
-
 ## Summary
 
 - **Data preprocessing is a mandatory step** in any serious machine learning project. Garbage in, garbage out.

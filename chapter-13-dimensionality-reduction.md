@@ -81,11 +81,6 @@ plt.colorbar()
 plt.show()
 ```
 
-## Visual Explanation
-
-!A diagram showing a 3D cloud of points being projected onto a 2D plane. The first principal component (PC1) is the longest axis of the cloud, and PC2 is the next longest axis, perpendicular to PC1.
-*PCA finds the new axes (principal components) that capture the most variance in the data.*
-
 ## Summary
 
 - **Dimensionality Reduction** is used to reduce the number of features, which can improve model performance and speed up training.

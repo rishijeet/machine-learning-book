@@ -80,11 +80,6 @@ for msg, pred in zip(new_messages, predictions):
     print(f"'{msg}' -> {pred}")
 ```
 
-## Visual Explanation
-
-!A diagram showing how Naive Bayes calculates probabilities. For the phrase "Free money", it looks at P("Free"|Spam) and P("Money"|Spam) and combines them to get P(Spam|"Free money").
-*Naive Bayes calculates the probability of a class by combining the individual probabilities of each feature, assuming they are independent.*
-
 ## Summary
 
 - **Naive Bayes** is a fast, simple, and effective probabilistic classifier.

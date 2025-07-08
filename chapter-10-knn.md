@@ -77,12 +77,6 @@ best_k = k_range[np.argmin(error_rate)]
 print(f"\nBest K value found: {best_k} with an error rate of {min(error_rate):.4f}")
 ```
 
-## Visual Explanation
-
-![image](https://github.com/user-attachments/assets/1e05b017-4638-4a72-872f-4e0ad7afdf6f)
-
-*The classification of a new point in KNN depends heavily on the chosen value of K.*
-
 ## Summary
 
 - **K-Nearest Neighbors (KNN)** is a simple, non-parametric, "lazy" learning algorithm.

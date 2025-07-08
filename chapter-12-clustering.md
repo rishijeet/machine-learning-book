@@ -93,11 +93,6 @@ plt.grid(True)
 plt.show()
 ```
 
-## Visual Explanation
-
-!A diagram showing a comparison of K-Means and DBSCAN on non-spherical data (like two moons). K-Means fails to separate them correctly, while DBSCAN succeeds.
-*Different clustering algorithms have different strengths. K-Means is great for spherical clusters, while DBSCAN can handle complex shapes.*
-
 ## Summary
 
 - **Clustering** is an unsupervised learning task for finding hidden groups in unlabeled data.

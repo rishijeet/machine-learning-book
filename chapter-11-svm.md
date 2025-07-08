@@ -83,12 +83,6 @@ plot_decision_boundary(svm_rbf, X_test_scaled, y_test, "RBF Kernel Decision Boun
 plt.show()
 ```
 
-## Visual Explanation
-
-![image](https://github.com/user-attachments/assets/11549dc6-d2e9-473b-a0e6-96e7025653b2)
-
-*An SVM's goal is to find the hyperplane that creates the largest possible margin between the two classes. The points that lie on the margin are the support vectors.*
-
 ## Summary
 
 - **Support Vector Machines (SVMs)** are powerful classifiers that work by finding the optimal separating hyperplane with the maximum margin.

@@ -58,12 +58,6 @@ print("\n----------- Data with Engineered Features -----------")
 print(df[['user_id', 'days_as_customer', 'avg_purchase_value', 'signup_month']])
 ```
 
-## Visual Explanation
-
-<img src="https://github.com/user-attachments/assets/699167b0-8ecf-434f-8d73-a0a1df1c3190" width="600">
-
-*Feature engineering is about transforming raw data into meaningful signals for your model.*
-
 ## Summary
 
 - **Feature engineering is a highly creative process** that blends domain knowledge with data manipulation.
