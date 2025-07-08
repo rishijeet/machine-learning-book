@@ -79,7 +79,8 @@ print(f"\nBest K value found: {best_k} with an error rate of {min(error_rate):.4
 
 ## Visual Explanation
 
-!A diagram showing a new data point (a star). With K=3, its nearest neighbors are two red circles and one blue square, so it's classified as red. With K=5, its neighbors are two red circles and three blue squares, so it's classified as blue.
+![image](https://github.com/user-attachments/assets/1e05b017-4638-4a72-872f-4e0ad7afdf6f)
+
 *The classification of a new point in KNN depends heavily on the chosen value of K.*
 
 ## Summary
